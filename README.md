@@ -1,16 +1,19 @@
-## Hi there 👋
+### `whoami`
 
-<!--
-**BassMaria/BassMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+University student exploring the depths of **Python** and **Rust**.
+I spend most of my time living inside the terminal, currently based at **Ehime University** 🍊.
 
-Here are some ideas to get you started:
+```toml
+[user]
+status = "Student (Ehime University)"
+editor = "Neovim"
+languages = ["Python", "Rust"]
+focus = [
+    "Machine Learning (Gemini AI)", 
+    "OSS Contribution", 
+    "Systems Programming"
+]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[hobbies]
+creative = "Music Composition 🎵 (Wind Band Enthusiast 🎺)"
+philosophy = "Open Source"
